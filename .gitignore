@@ -1,0 +1,19 @@
+# OS / editors
+.DS_Store
+.vscode/
+.idea/
+
+# Env files
+.env
+.env.*
+!.env.example
+
+# Node
+node_modules/
+dist/
+npm-debug.log*
+
+# Python
+.venv/
+__pycache__/
+*.pyc
